@@ -1,5 +1,5 @@
-# DevOps
-Quick starter shell scripts
+# Shell Scripts
+A collection of useful shell scripts for various tasks.
 
 
 ## How to use
