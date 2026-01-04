@@ -9,13 +9,14 @@ This directory contains essential personal configurations and scripts that I use
 - `Zsh`: Configuration file for Zsh shell.
   - Path: `.zshrc` (omitted for security reasons)
   - Use oh-my-zsh framework.
-  - Plugins: `[nvm, zsh-autosuggestions, zsh-syntax-highlighting]`
+  - Plugins: `[zsh-autosuggestions, zsh-syntax-highlighting]`
   - Put API keys at the end of the file.
 - `Git`: Configuration file for Git version control system.
-  - Path: `.gitconfig` (not included as nothing special)
-  - Use GPG signing for commits.
+  - Path: `.gitconfig`
+  - Add `.git-credentials` for storing credentials.
+  - Configure GPG signing for commits.
 
-## Essential Programs to Install
+## Essential Programs and Tools
 - `git`: Version control system.
 - `vim`: Text editor.
 - `zsh`: Shell.

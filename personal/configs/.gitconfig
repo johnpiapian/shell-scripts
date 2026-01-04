@@ -1,0 +1,10 @@
+[user]
+	name = johnpiapian
+	email = johnpiapian@gmail.com
+	signingkey = [redacted]
+[credential]
+	helper = store
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
