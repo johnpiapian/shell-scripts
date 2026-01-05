@@ -8,3 +8,5 @@
 	gpgsign = true
 [tag]
 	gpgSign = true
+[core]
+	excludesfile = ~/.gitignore_global

@@ -14,7 +14,8 @@ This directory contains essential personal configurations and scripts that I use
 - `Git`: Configuration file for Git version control system.
   - Path: `.gitconfig`
   - Add `.git-credentials` for storing credentials.
-  - Configure GPG signing for commits.
+  - Add `.gitignore_global` for global ignore patterns.
+  - Configure GPG signing for commits.`
 
 ## Essential Programs and Tools
 - `git`: Version control system.
